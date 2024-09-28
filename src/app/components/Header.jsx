@@ -22,6 +22,7 @@ function Header() {
                     <Link href='/about'>About</Link>
                     <Link href='/sign-in'>Sign-in</Link>
                 </ul>
+                
             </nav>
         </div>
     </header>
